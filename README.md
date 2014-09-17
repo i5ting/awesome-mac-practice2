@@ -185,3 +185,11 @@ https://github.com/carlhuda/janus
 	> go version go1.3.1 darwin/amd64
 	
 	
+	
+## docker 
+docker需要最新的virtualbox，目前是VirtualBox-4.3.16-95972-OSX.dmg，如果不是最新的可能有网络连接的错误
+
+https://docs.docker.com/installation/mac/
+
+
+
