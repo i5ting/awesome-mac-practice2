@@ -162,3 +162,26 @@ https://github.com/carlhuda/janus
 
 ### python
 
+### go
+
+打开http://golang.org/doc/install下载pkg的安装包
+
+`go1.3.1.darwin-amd64-osx10.8.pkg`
+
+
+安装后需要做如下操作
+
+打开`vi ~/.zshrc`，增加
+
+	export PATH=/usr/local/go/bin:$PATH
+	
+生效
+
+	source ~/.zshrc
+
+测试
+
+	> go version
+	> go version go1.3.1 darwin/amd64
+	
+	
