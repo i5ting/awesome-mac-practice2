@@ -1,6 +1,26 @@
 awesome-mac-practice
 ====================
 
+## mac无法安装本地pkg文件
+
+出现错误提示：
+
+	“git.app” can’t be opened because it is from an unidentified developer.
+	Your security preferences allow installation of only apps from the Mac App Store and identified developers.
+
+MAC现在无法打开不是所谓identified developer开发的程序了，悲剧！
+
+大家注意！
+
+一顿搜索。。。。。
+
+原来只是一个设置的问题，苹果还这次还算客气
+
+更新解决方法：
+
+	System Preferences -> Security & Privacy -> Allow application from [Anywhere]
+
+
 ## 开启root用户
 
 http://support.apple.com/kb/HT1528?viewlocale=zh_CN&locale=zh_CN
@@ -55,7 +75,7 @@ http://pc.qq.com/mac.html
 
 [QQMacMgr_1.3.1 download](http://dlied6.qq.com/invc/xfspeed/mac/verupdate/QQMacMgr_1.3.1.dmg)
 
-## 安装cinch
+## 安装cinch(窗口最大化)
 
 全屏窗口
 
@@ -78,6 +98,26 @@ http://qsapp.com/download.php
 
 云梯，一键安装
 
+## 文本编辑器textmate2
+
+免费开源
+
+## Caffeine （屏幕高亮）
+
+## evernote （日常记录）
+## skitch （简单的图片处理软件）
+
+## Paragon NTFS for Mac 9.0.1
+
+用于读写ntfs硬盘
+
+## mockup(原型图制作软件)
+    
+	 key:
+          NGEN
+          eJzzzU/OLi0odswsqvFzd/WrsUQCNc41hmBRAO9oC9s=
+		  
+## TexturePacker-2.4.3(已破解，cocos2D制图软件）
 ## 安装brew
 
 The missing package manager for OS X. 
@@ -150,10 +190,29 @@ ssh-rsa ANzaC1yc2EAAAADAQABAAABAQC9A3e1i1vZj2SHX4KZAgQffrEj7N0/ZUuB6ZKGdWe8eVV08
 
 ![](img/git_ssh_key.png)
 
-## 安装oh-zsh
 
 
-## 安装vim
+
+### 打造好用的Mac终端
+
+### 终端 
+下载iterm2，iterm2默认支持256色，可以在新tab中使用前一个tab的路径，支持鼠标选中复制等。
+
+### 配色
+下载或者定制一个配色方案，我现在使用的配色是一个老外做的，我觉得还不错，叫solarized，作者提供dark和light两种配色，更棒的是，它为各个常用的终端和编辑器都提供了相关的颜色的配置。即使你不适用iterm2，使用其他的，也都能找到它的颜色配置。
+
+下载解压后，找到iterm2相关的配置，打开item2的`Preferences->Profiles->Colors`标签，点击Load Preset列表中的Import进行导入，然后选择一种即可。在此确认一下在`Preferences->Profiles->Terminal`标签下的Terminal Emulation选择的是`xterm-256color`。
+
+### shell
+Mac和linux一般默认shell都是bash，然而这个世界上最强大的shell非zsh莫属。强大的命令补全，自动纠错等。我之前的一篇文章也简单介绍过终极shell--zsh。
+
+下载或者用你的包管理工具，我用的是homebrew，直接brew install zsh就行了。
+
+然后你需要找一个好的配置，或者你自己配置。这里提供2个比较好的配置，一个是http://grml.org/zsh/，还有一个是oh-my-zsh。我用的是后者，2个都很不错的。
+
+	curl -L https://github.com/robbyrussell/oh-my-zsh/raw/master/tools/install.sh | sh
+
+### vim
 
 https://github.com/carlhuda/janus
 
@@ -208,7 +267,44 @@ https://docs.docker.com/installation/mac/
 
 
 	docker pull sequenceiq/hadoop-docker:2.5.1
-	
+
+
+### virtualbox
+
+### paralles Descktop 
+
+
+
+## 破解
+
+### Adobe CS6 破解说明 
+
+1. 运行Block Adobe Activation，防止ADOBE激活程序启动，按操作提示点击即可。 
+1. 运行Adobe CS6安装程序 
+1. 选择“试用” 
+1. 输入Adobe ID，如果没有，免费注册一个，登录 
+1. 安装完之后，在Adobe Photoshop CS6程序按右键，选择显示包内容，打开/ Contents / Frameworks /文件夹，把amtlib.framework文件夹拷进去替换。 
+1. 同样道理，激活illustrator,indesign等程序，也是同样办法，在对应的Adobe CS6程序按右键，选择显示包内容，打开/ Contents / Frameworks /文件夹，把amtlib.framework文件夹拷进去替换。 
+1. 运行Adobe 程序，激活成功。享受ADOBE CS6吧！
+
+
+### 安装photoshop12(用下面序列号搞定)
+
+- 1330-0431-0319-6701-4515-0017
+- 1325-0549-2240-0071-3409-1342
+
+### webstorm 4 注册码 
+
+
+solq
+
+===== LICENSE BEGIN =====
+35758-12042010
+00001cIW59IBVHRPp019pvqMI0zUcw
+RqOCGkr4xcLxYJaUE6RgIfTVRv43kV
+80GauemJf4PvNrFQdFYdjTGBTmZZXQ
+===== LICENSE END =====
+
 
 
 ## Contributing
