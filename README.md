@@ -196,14 +196,17 @@ ssh-rsa ANzaC1yc2EAAAADAQABAAABAQC9A3e1i1vZj2SHX4KZAgQffrEj7N0/ZUuB6ZKGdWe8eVV08
 ### 打造好用的Mac终端
 
 ### 终端 
+
 下载iterm2，iterm2默认支持256色，可以在新tab中使用前一个tab的路径，支持鼠标选中复制等。
 
 ### 配色
+
 下载或者定制一个配色方案，我现在使用的配色是一个老外做的，我觉得还不错，叫solarized，作者提供dark和light两种配色，更棒的是，它为各个常用的终端和编辑器都提供了相关的颜色的配置。即使你不适用iterm2，使用其他的，也都能找到它的颜色配置。
 
 下载解压后，找到iterm2相关的配置，打开item2的`Preferences->Profiles->Colors`标签，点击Load Preset列表中的Import进行导入，然后选择一种即可。在此确认一下在`Preferences->Profiles->Terminal`标签下的Terminal Emulation选择的是`xterm-256color`。
 
 ### shell
+
 Mac和linux一般默认shell都是bash，然而这个世界上最强大的shell非zsh莫属。强大的命令补全，自动纠错等。我之前的一篇文章也简单介绍过终极shell--zsh。
 
 下载或者用你的包管理工具，我用的是homebrew，直接brew install zsh就行了。
@@ -219,6 +222,8 @@ https://github.com/carlhuda/janus
 安装命令
 
 	curl -Lo- https://bit.ly/janus-bootstrap | bash
+
+![](img/vim.png)
 
 ## language
 
