@@ -93,6 +93,17 @@ http://brew.sh
 
 	brew install wget
 	brew install openssl
+	
+### Cask安装
+
+[A CLI workflow for the administration of Mac applications distributed as binaries](https://github.com/caskroom/homebrew-cask)
+
+	brew tap caskroom/homebrew-cask  
+	brew install brew-cask
+
+好处
+
+- 稍后给出
 
 ## 安装commandline和xcode
 
@@ -191,5 +202,10 @@ docker需要最新的virtualbox，目前是VirtualBox-4.3.16-95972-OSX.dmg，如
 
 https://docs.docker.com/installation/mac/
 
+
+
+	docker pull sequenceiq/hadoop-docker:2.5.1
+	
+	
 
 
