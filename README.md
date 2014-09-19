@@ -196,8 +196,11 @@ https://github.com/carlhuda/janus
 	> go version go1.3.1 darwin/amd64
 	
 	
-	
-## docker 
+## 虚拟机
+
+[Vagrant 和 Docker：如何在 OS X 上安装和设置 Postgres, Elasticsearch 和 Redis](http://www.oschina.net/translate/vagrant_with_docker_how_to_set_up_postgres_elasticsearch_and_redis_on_mac_os_x)
+
+### docker 
 docker需要最新的virtualbox，目前是VirtualBox-4.3.16-95972-OSX.dmg，如果不是最新的可能有网络连接的错误
 
 https://docs.docker.com/installation/mac/
