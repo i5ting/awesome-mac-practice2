@@ -109,7 +109,7 @@ Dash是mac系统下最好用的api查找工具
 ![](img/dash.png)
 
 
-[dash.zip 备份版本，支持所有功能](app/dash.zip)
+[dash.zip 备份版本，支持所有功能](https://github.com/i5ting/awesome-mac-practice/blob/master/app/Dash.zip?raw=true)
 
 ## Caffeine （屏幕高亮）
 
