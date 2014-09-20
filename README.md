@@ -102,6 +102,16 @@ http://qsapp.com/download.php
 
 免费开源
 
+## API查找
+
+Dash
+
+![](img/dash.png)
+
+
+[](app/dash.zip)
+
+
 ## Caffeine （屏幕高亮）
 
 ## evernote （日常记录）
