@@ -113,6 +113,9 @@ Dash是mac系统下最好用的api查找工具
 
 ## Caffeine （屏幕高亮）
 
+[Caffeine.zip 备份](https://github.com/i5ting/awesome-mac-practice/blob/master/app/Caffeine.zip?raw=true)
+
+
 ## evernote （日常记录）
 ## skitch （简单的图片处理软件）
 
