@@ -104,13 +104,12 @@ http://qsapp.com/download.php
 
 ## API查找
 
-Dash
+Dash是mac系统下最好用的api查找工具
 
 ![](img/dash.png)
 
 
-[](app/dash.zip)
-
+[dash.zip 备份版本，支持所有功能](app/dash.zip)
 
 ## Caffeine （屏幕高亮）
 
