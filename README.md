@@ -324,8 +324,23 @@ https://docs.docker.com/installation/mac/
 	80GauemJf4PvNrFQdFYdjTGBTmZZXQ
 	===== LICENSE END =====
 
+## 高级
 
+### git常用
 
+	alias gs='git status'
+	alias gp='git push'
+
+使用alias来简化命令输入
+
+### 配置环境变量
+
+	export PATH=/usr/local/go/bin:$PATH
+	
+配置完成后，需要source一下
+	
+	source ~/.zshrc
+	
 ## Contributing
 
 1. Fork it
