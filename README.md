@@ -333,6 +333,14 @@ https://docs.docker.com/installation/mac/
 
 使用alias来简化命令输入
 
+下面给出一些git学习资料
+
+- [git-guide](http://www.bootcss.com/p/git-guide/)
+- [git入门gif演示](https://git.oschina.net/wzw/git-quick-start)
+- [写出好的 commit message](http://ruby-china.org/topics/15737)
+- [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
+
+
 ### 配置环境变量
 
 	export PATH=/usr/local/go/bin:$PATH
