@@ -104,6 +104,15 @@ http://qsapp.com/download.php
 
 免费开源
 
+## ImageOptim
+
+ImageOptim is a free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
+
+https://imageoptim.com/
+
+[imageoptim.zip 备份版本](https://github.com/i5ting/awesome-mac-practice/blob/master/app/ImageOptim.zip?raw=true)
+
+
 ## API查找
 
 Dash是mac系统下最好用的api查找工具
