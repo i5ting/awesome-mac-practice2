@@ -348,7 +348,7 @@ https://docs.docker.com/installation/mac/
 - [git入门gif演示](https://git.oschina.net/wzw/git-quick-start)
 - [写出好的 commit message](http://ruby-china.org/topics/15737)
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
-
+- [分支管理](http://www.juvenxu.com/2010/11/28/a-successful-git-branching-model/)
 
 ### 配置环境变量
 
