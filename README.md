@@ -360,6 +360,18 @@ https://docs.docker.com/installation/mac/
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [分支管理](http://www.juvenxu.com/2010/11/28/a-successful-git-branching-model/)
 
+### github 好慢
+
+好了, 看到这里大家应该对 node 和 npm 已经没有速度慢的问题了.
+
+
+github 慢, 或者说是它的资源 host 被堵而已, 大家可以通过简单的 hosts 映射解决:
+
+```
+185.31.16.184 github.global.ssl.fastly.net
+```
+
+
 ### 配置环境变量
 
 	export PATH=/usr/local/go/bin:$PATH
