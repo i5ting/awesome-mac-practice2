@@ -359,7 +359,7 @@ https://docs.docker.com/installation/mac/
 - [写出好的 commit message](http://ruby-china.org/topics/15737)
 - [github-cheat-sheet](https://github.com/tiimgreen/github-cheat-sheet/blob/master/README.zh-cn.md)
 - [分支管理](http://www.juvenxu.com/2010/11/28/a-successful-git-branching-model/)
-
+- [Git-it Challenges is a terminal based app for learning Git and GitHub](http://jlord.github.io/git-it/)
 ### github 好慢
 
 好了, 看到这里大家应该对 node 和 npm 已经没有速度慢的问题了.
