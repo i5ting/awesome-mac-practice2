@@ -380,6 +380,13 @@ github 慢, 或者说是它的资源 host 被堵而已, 大家可以通过简单
 	
 	source ~/.zshrc
 	
+### mongodb client
+
+暂时先不评测
+
+- http://mongohub.todayclose.com/download
+- http://robomongo.org/
+	
 ## Contributing
 
 1. Fork it
