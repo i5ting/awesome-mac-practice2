@@ -258,6 +258,14 @@ https://github.com/carlhuda/janus
 
 ![](img/vim.png)
 
+
+### 更多
+
+如果你想学习mac下的命令行操作，我推荐peter wang的《Linux Guide for Complete Beginners》
+
+参见 http://happypeter.github.io/LGCB/book/
+
+
 ## language
 
 ### node
