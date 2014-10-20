@@ -104,6 +104,19 @@ http://qsapp.com/download.php
 
 免费开源
 
+### 编辑器建议
+
+
+![](img/editor.png)
+
+
+- 多使用open folder
+- 每次只打开一个项目，记住每一个文件名和目录名，了解代码结构
+- 使用cmd + T来快速打开
+- 少用IDE(如webstorm之类的)，多用文本编辑器，少依赖语法提示
+
+图片使用的textmate2，其他文本编辑器，如Sublime Text其实也一样，只是快捷键可能不太一样。
+
 ## ImageOptim
 
 ImageOptim is a free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
