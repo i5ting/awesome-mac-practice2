@@ -73,10 +73,6 @@ PC server X86 系列
 - I386--I686  都是32位
 - x86_64 是 64位
 
-
-
-
-
 ## Failed to load c++ bson extension, using pure JS version
 
 这个主要是通过 npm install mongoose 时，mongoose 并没有编译 bson, 引起的，通过 npm install bson 就会编译它，并个性 mongoose 中对应的引用代码即可。
