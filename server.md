@@ -99,3 +99,29 @@ date -s 17:02:50
     "start": "./node_modules/.bin/supervisor ./bin/www &"
 		
 		
+##  Cannot retrieve repository metadata (repomd.xml) 
+
+```
+➜  openssl  yum install -y build-essential libssl-dev libreadline5 libreadline5-dev zlib1g zlib1g-dev
+
+
+Error: Cannot retrieve repository metadata (repomd.xml) for repository: epel. Please verify its path and try again
+```
+
+https://lug.ustc.edu.cn/wiki/mirrors/help/epel
+
+## 安装
+
+	yum -y install mysql-server
+	yum intall httpd
+	yum -y install php   
+	yum -y install php-mysql
+	
+开机启动
+ 
+	chkconfig mysqld on 
+	chkconfig httpd on 
+	chkconfig --list mysqld  
+	chkconfig --list httpd
+	
+	  
