@@ -110,6 +110,10 @@ Error: Cannot retrieve repository metadata (repomd.xml) for repository: epel. Pl
 
 https://lug.ustc.edu.cn/wiki/mirrors/help/epel
 
+## redmine 安装文档
+
+http://www.redmine.org/projects/redmine/wiki/RedmineInstall
+
 ## 安装
 
 	yum -y install mysql-server
@@ -124,4 +128,18 @@ https://lug.ustc.edu.cn/wiki/mirrors/help/epel
 	chkconfig --list mysqld  
 	chkconfig --list httpd
 	
-	  
+### 安装ruby
+
+	rvm pkg install openssl  
+
+然后再编译源码
+
+```
+yum install ImageMagick-devel 
+yum install mysql-devel 
+```
+
+bundle install
+
+
+
