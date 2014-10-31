@@ -417,6 +417,10 @@ github 慢, 或者说是它的资源 host 被堵而已, 大家可以通过简单
 4. Push to the branch (`git push origin my-new-feature`)
 5. Create new Pull Request
 
+## 推荐
+
+- [mac-dev-setup](http://aaaaaashu.gitbooks.io/mac-dev-setup/content/index.html)
+
 ## 版本历史
 
 - v0.1.0 初始化版本
