@@ -1,6 +1,18 @@
 awesome-mac-practice
 ====================
 
+## 键盘key说明
+
+大部分人都记不住这些按键，下面给出说明
+
+| Symbol    | Key         | 
+|:---------:|:-----------:|
+|  &#8984;  | Command Key |
+|  &#8963;  | Control Key |
+|  &#8997;  | Option Key  |
+|  &#8679;  | Shift Key   |
+
+
 ## mac无法安装本地pkg文件
 
 出现错误提示：
@@ -81,6 +93,10 @@ http://pc.qq.com/mac.html
 
 全屏窗口
 
+![](img/cinch.png)
+
+
+也可以使用[Spectacle.app](http://spectacleapp.com/)，Open Source,fredd,但是我觉得还是cinch比较习惯
 
 ## 安装quicksilver
 
