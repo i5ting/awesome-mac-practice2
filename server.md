@@ -234,6 +234,8 @@ sudo make install
 	npm install -g node-gyp  
 ```
 
+gyp是构建工具，应该是node0.7之后上得。很多npm里有c代码，所以安装它非常有必要
+
 npm的另一种安装方式是
 
 ```
@@ -241,6 +243,13 @@ wget http://npmjs.org/install.sh
 chmod +x ./install.sh  
 ./install.sh 
 ```
+
+
+## node nrm
+
+	sudo npm install -g nrm
+	nrm test
+	nrm use cnpm
 
 ## Failed to load c++ bson extension, using pure JS version
 
@@ -255,6 +264,8 @@ https://cnodejs.org/topic/53020b75e369e0840e7b060d
 date -s 10/18/14
 date -s 17:02:50 
 ```
+
+date -s 23:00:15 
 
 
 ## nohup not work
