@@ -244,6 +244,11 @@ chmod +x ./install.sh
 ./install.sh 
 ```
 
+## 安装zsh
+
+	yum install zsh
+	sudo wget --no-check-certificate http://install.ohmyz.sh -O - | sh
+	chsh -s /bin/zsh
 
 ## node nrm
 
@@ -266,6 +271,41 @@ date -s 17:02:50
 ```
 
 date -s 23:00:15 
+
+## install mongodb
+
+下载安装包，解压，配置环境变量
+
+	export PATH=/home/deploy/downloads/mongodb-linux-x86_64-2.6.5/bin:$PATH
+
+创建启动脚本
+
+```
+	cat bin/startmongodb.sh 
+	#! /bin/bash
+
+	source /etc/profile
+
+	mkdir -p ~/data/mongodb
+
+	nohup mongod --dbpath ~/data/mongodb  --logpath ./mongodb.log &
+```
+
+## install redis
+
+下载安装包，解压，配置环境变量
+
+	make && make install
+	
+创建启动脚本
+
+```
+	cat bin/startredis.sh
+	#! /bin/bash
+
+	nohup redis-server  --notify-keyspace-events Ex  --loglevel verbose &
+```
+
 
 
 ## nohup not work
@@ -317,4 +357,25 @@ yum install mysql-devel
 bundle install
 
 
+## iptables
 
+重启后生效 
+开启： chkconfig iptables on 
+关闭： chkconfig iptables off   或者 /sbin/chkconfig --level 2345 iptables off
+
+2) 即时生效，重启后失效
+
+service 方式
+开启： service iptables start 
+关闭： service iptables stop
+
+iptables方式
+
+查看防火墙状态：
+/etc/init.d/iptables status
+
+暂时关闭防火墙：
+/etc/init.d/iptables stop
+
+重启iptables:
+/etc/init.d/iptables restart
