@@ -372,10 +372,15 @@ service 方式
 iptables方式
 
 查看防火墙状态：
-/etc/init.d/iptables status
+
+	/etc/init.d/iptables status
 
 暂时关闭防火墙：
-/etc/init.d/iptables stop
+
+	/etc/init.d/iptables stop
 
 重启iptables:
-/etc/init.d/iptables restart
+	
+	/etc/init.d/iptables restart
+	
+	
