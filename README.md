@@ -424,7 +424,14 @@ github 慢, 或者说是它的资源 host 被堵而已, 大家可以通过简单
 
 - http://mongohub.todayclose.com/download
 - http://robomongo.org/
+
+## 视频录制
+
+- 使用QuickTime player就可以（阿虎推荐）
+- [Miro Video Converter](http://soft.macx.cn/3923.htm)
 	
+另外screenflow是收费的，screenflick是免费得，基本够用
+
 ## Contributing
 
 1. Fork it
