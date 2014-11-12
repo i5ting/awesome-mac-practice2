@@ -255,6 +255,11 @@ ssh-rsa ANzaC1yc2EAAAADAQABAAABAQC9A3e1i1vZj2SHX4KZAgQffrEj7N0/ZUuB6ZKGdWe8eVV08
 
 我目前用得苹果内置mail，够用，另外推荐Sparrow，据说非常好用
 
+## Spotlight plugin
+
+The missing Spotlight plugin system 
+http://flashlight.nateparrott.com
+
 ## 打造好用的Mac终端
 
 ### 终端 
