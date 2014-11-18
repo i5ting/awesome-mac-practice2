@@ -404,6 +404,10 @@ https://docs.docker.com/installation/mac/
 - [Git-it Challenges is a terminal based app for learning Git and GitHub](http://jlord.github.io/git-it/)
 - [高富帅们的Git技巧（译）](http://blog.csdn.net/zmlcool/article/details/8682382)
 - [Git 怎样保证fork出来的project和原project（上游项目）同步更新](http://www.tuicool.com/articles/Mnmmqyi)
+- [10.Git之本地忽略](http://blog.csdn.net/kangear/article/details/13169395)
+	$ git update-index --assume-unchanged /path/to/file       #忽略跟踪
+	$ git update-index --no-assume-unchanged /path/to/file  #恢复跟踪
+	
 ### github 好慢
 
 好了, 看到这里大家应该对 node 和 npm 已经没有速度慢的问题了.
