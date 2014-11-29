@@ -194,6 +194,10 @@ http://linuxg.net/5-useradd-command-examples/
 yum -y install gcc
 yum -y install gcc-c++ 
 yum install make
+yum install openssh-clients
+yum install openssl
+yum install openssl-devel
+yum install git-core
 ```
 
 -- 或者
@@ -219,9 +223,12 @@ yum install libtool automake autoconf gcc-c++ openssl-devel
 然后[下载nodejs的源码](http://nodejs.org/dist/v0.10.33/node-v0.10.33.tar.gz)包tar, 解压缩后直接三板斧编译安装
 
 
+	wget http://nodejs.org/dist/v0.10.33/node-v0.10.33.tar.gz
+
 
 ```
 tar -zxvf node-v0.10.33.tar.gz
+cd node-v0.10.33
 ./configure --prefix=/usr  
 make  
 sudo make install  
@@ -243,6 +250,20 @@ wget http://npmjs.org/install.sh
 chmod +x ./install.sh  
 ./install.sh 
 ```
+
+```
+➜  ~  scp mongodb-linux-x86_64-2.6.5.tgz deploy@42.62.8.172:~
+deploy@42.62.8.172's password: 
+bash: scp: command not found
+lost connection
+```
+
+	yum install openssh-clients
+
+## install redis
+
+wget https://github.com/antirez/redis/archive/3.0.0-rc1.tar.gz
+
 
 ## 安装zsh
 
@@ -306,7 +327,10 @@ date -s 23:00:15
 	nohup redis-server  --notify-keyspace-events Ex  --loglevel verbose &
 ```
 
+## clone source 
 
+git clone https://github.com/i5ting/push.git
+git clone https://github.com/i5ting/cron.git
 
 ## nohup not work
 
@@ -357,6 +381,28 @@ yum install mysql-devel
 bundle install
 
 
+## node start
+
+sudo pm2 start bin/www -f -x -i max --name push
+
+nohup ./node_modules/.bin/supervisor ./bin/www &
+
+
+
+pm2 startup centos
+
+pm2 status
+
+
+
+ pm2 start bin/www -i max --name push
+[PM2] You shouldn't use the cluster_mode with node 0.10.x. Instead use fork mode with -x
+
+
+ pm2 start bin/www -x -i max --name push
+ 
+ 
+ 
 ## iptables
 
 重启后生效 
@@ -384,3 +430,7 @@ iptables方式
 	/etc/init.d/iptables restart
 	
 	
+## mongod 运维
+
+### 查看文件大小
+	du -ah . | sort -n -r | head -n 10

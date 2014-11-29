@@ -169,6 +169,17 @@ Dash是mac系统下最好用的api查找工具
           NGEN
           eJzzzU/OLi0odswsqvFzd/WrsUQCNc41hmBRAO9oC9s=
 		  
+## AxureRP
+
+更加通用的原型设计工具，下载自己去找
+
+### AxureRP-extension-for-Chrome-0.6
+
+这个安装要翻墙，可以从下面地址下载
+
+[AxureRP-extension-for-Chrome-0.6.zip 备份](https://github.com/i5ting/awesome-mac-practice/blob/master/app/AxureRP-extension-for-Chrome-0.6.zip?raw=true)
+
+
 ## TexturePacker-2.4.3(已破解，cocos2D制图软件）
 ## 安装brew
 
