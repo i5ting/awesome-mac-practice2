@@ -89,6 +89,16 @@ http://pc.qq.com/mac.html
 
 [QQMacMgr_1.3.1 download](http://dlied6.qq.com/invc/xfspeed/mac/verupdate/QQMacMgr_1.3.1.dmg)
 
+## 应用软件下载
+
+方式1：
+
+http://soft.macx.cn/
+
+方式2：
+
+使用腾讯电脑管家里的软件下载
+
 ## 安装cinch(窗口最大化)
 
 全屏窗口
