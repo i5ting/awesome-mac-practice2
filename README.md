@@ -13,6 +13,10 @@ awesome-mac-practice
 |  &#8679;  | Shift Key   |
 
 
+## 搜索
+
+如没有vpn，可以使用 http://baigoogledu.com/ ，少用baidu，多用github，stackoverflow等 
+
 ## mac无法安装本地pkg文件
 
 出现错误提示：
