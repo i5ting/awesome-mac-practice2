@@ -430,6 +430,10 @@ https://docs.docker.com/installation/mac/
 - [高富帅们的Git技巧（译）](http://blog.csdn.net/zmlcool/article/details/8682382)
 - [Git 怎样保证fork出来的project和原project（上游项目）同步更新](http://www.tuicool.com/articles/Mnmmqyi)
 - [10.Git之本地忽略](http://blog.csdn.net/kangear/article/details/13169395)
+- [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
+- [Git flow 開發流程 ihower](http://ihower.tw/blog/archives/5140)
+
+
 	$ git update-index --assume-unchanged /path/to/file       #忽略跟踪
 	$ git update-index --no-assume-unchanged /path/to/file  #恢复跟踪
 	
