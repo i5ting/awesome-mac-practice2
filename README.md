@@ -187,6 +187,11 @@ Dash是mac系统下最好用的api查找工具
 
 更加通用的原型设计工具，下载自己去找
 
+7.0的授权
+
+	Name: TEAM BEAN 2014
+	License Key: rF8fyNi2FowiWOA95kJIvFJZCbVFu7j8QyMAr2PPDi7Q/fStXyqt6e8h5lfNYgb+
+
 ### AxureRP-extension-for-Chrome-0.6
 
 这个安装要翻墙，可以从下面地址下载

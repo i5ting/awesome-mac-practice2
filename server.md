@@ -433,4 +433,5 @@ iptables方式
 ## mongod 运维
 
 ### 查看文件大小
+
 	du -ah . | sort -n -r | head -n 10
