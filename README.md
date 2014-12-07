@@ -442,6 +442,10 @@ https://docs.docker.com/installation/mac/
 	$ git update-index --assume-unchanged /path/to/file       #忽略跟踪
 	$ git update-index --no-assume-unchanged /path/to/file  #恢复跟踪
 	
+### 递归初始化所有子模块
+
+	git submodule update --init --recursive
+	
 ### github 好慢
 
 好了, 看到这里大家应该对 node 和 npm 已经没有速度慢的问题了.
