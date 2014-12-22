@@ -169,6 +169,16 @@ Dash是mac系统下最好用的api查找工具
 
 [Caffeine.zip 备份](https://github.com/i5ting/awesome-mac-practice/blob/master/app/Caffeine.zip?raw=true)
 
+## SVN
+
+- Versions(莲花)
+- CornerStone(一般洁净冲突的时候使用)
+
+version1.3.2破解教程 
+
+- 下载官方原版，安装，运行，你会看到软件右上角有“试用版，还剩XX天”的提示。 
+- 退出软件，下载[](https://github.com/i5ting/awesome-mac-practice/blob/master/app/Versions?raw=true)，解压。 
+- 用Finder转到应用程序，找到versions，右键“显示包内容”，进入contents -> MacOS 目录，把下载的附件替换进去（记得先备份），OK了退出，重新打开versions，你会发现那个购买提示不见了......
 
 ## evernote （日常记录）
 ## skitch （简单的图片处理软件）
@@ -437,7 +447,7 @@ https://docs.docker.com/installation/mac/
 - [10.Git之本地忽略](http://blog.csdn.net/kangear/article/details/13169395)
 - [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 - [Git flow 開發流程 ihower](http://ihower.tw/blog/archives/5140)
-
+- [git bisect](http://www.oschina.net/translate/letting-git-bisect-help-you)
 
 	$ git update-index --assume-unchanged /path/to/file       #忽略跟踪
 	$ git update-index --no-assume-unchanged /path/to/file  #恢复跟踪
