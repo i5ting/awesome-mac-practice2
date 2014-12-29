@@ -148,7 +148,7 @@ http://qsapp.com/download.php
 图片使用的textmate2，其他文本编辑器，如Sublime Text其实也一样，只是快捷键可能不太一样。
 
 
-## sublime text 3065注册码
+## sublime text 3065 注册码
 
 ```
 —– BEGIN LICENSE —–
