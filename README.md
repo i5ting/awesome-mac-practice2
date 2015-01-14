@@ -509,6 +509,16 @@ github 慢, 或者说是它的资源 host 被堵而已, 大家可以通过简单
 	
 另外screenflow是收费的，screenflick是免费得，基本够用
 
+
+## 高效搜索
+
+http://beyondgrep.com/install/
+
+```
+brew install ack
+ack --help
+```
+
 ## Contributing
 
 1. Fork it
