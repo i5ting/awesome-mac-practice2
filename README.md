@@ -426,6 +426,7 @@ https://docs.docker.com/installation/mac/
 1. 同样道理，激活illustrator,indesign等程序，也是同样办法，在对应的Adobe CS6程序按右键，选择显示包内容，打开/ Contents / Frameworks /文件夹，把amtlib.framework文件夹拷进去替换。 
 1. 运行Adobe 程序，激活成功。享受ADOBE CS6吧！
 
+[Adobe cs6 备份版本](https://github.com/i5ting/awesome-mac-practice/blob/master/app/amtlib.framework.zip?raw=true)
 
 ### 安装photoshop12(用下面序列号搞定)
 
