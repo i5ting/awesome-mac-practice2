@@ -520,6 +520,22 @@ brew install ack
 ack --help
 ```
 
+
+## Chrome 插件
+
+上网用chrome，速度会感觉明显快，当然chrome也是一个吃内存的老虎，没事关一关
+
+### Postman
+
+![](img/postman.png)
+
+### json editor
+
+![](img/jsoneditor.png)
+
+### amCoffee
+
+
 ## Contributing
 
 1. Fork it
