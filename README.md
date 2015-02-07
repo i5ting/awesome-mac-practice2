@@ -149,7 +149,9 @@ http://qsapp.com/download.php
 
 我最喜欢的是它可以在命令行里打开（preffences/terminal -> install ）
 
+```
    mate shadowsocks.xcodeproj/project.pbxproj
+```
    
 比vim还是好用一点。
 
@@ -544,6 +546,63 @@ ack --help
 
 ### amCoffee
 
+
+## 使用shadowsocks-go来配置vpn
+
+### why go ？
+
+因为node的版本被
+
+Deprecated; please use Other versions.
+
+Many people are asking why. Here's why.
+
+- https://github.com/clowwindy/shadowsocks-nodejs/issues/35
+- https://github.com/joyent/node/issues/5949
+
+
+The GC of node.js sucks.（黑我大node）
+
+Python version handles 5000 connections with 50MB RAM while node.js version handles 100 connections with 300MB RAM. Why should we continue to support node.js?
+
+
+### 安装步骤
+
+https://github.com/shadowsocks/shadowsocks-go
+
+配置go-lang环境，注意，要把${GOPATH}/bin放到path里
+
+```
+export GOPATH=/home/sang/go-path
+export PATH=${PATH}:${GOPATH}/bin
+```
+
+然后下载
+
+```
+  # on server
+go get github.com/shadowsocks/shadowsocks-go/cmd/shadowsocks-server
+```
+
+在${GOPATH}/bin下载 [config.json](https://github.com/shadowsocks/shadowsocks-go/blob/master/config.json)
+
+  wget https://github.com/shadowsocks/shadowsocks-go/blob/master/config.json
+
+自己改一下ip和密码，然后
+
+  nohup ./shadowsocks-server &
+  
+最好是做成开机启动项，免得以后麻烦
+
+现在打开shadowsocks mac客户端测试吧
+
+### 注意disable cgo
+
+It's recommended to disable cgo when compiling shadowsocks-go. This will prevent the go runtime from creating too many threads for dns lookup.
+
+我没处理它
+
+http://blog.studygolang.com/tag/golang_install/ 这里面有说的。
 
 ## Contributing
 
