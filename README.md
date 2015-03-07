@@ -173,6 +173,12 @@ B98FC99C 8FAC73EE D2B95564 DF450523
 —— END LICENSE ——
 ```
 
+
+## Navicat Premium
+
+ 
+![NavicatPremium.png](img/NavicatPremium.png)
+
 ## ImageOptim
 
 ImageOptim is a free app that makes images take up less disk space and load faster, without sacrificing quality. It optimizes compression parameters, removes junk metadata and unnecessary color profiles.
