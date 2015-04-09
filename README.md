@@ -215,6 +215,13 @@ version1.3.2破解教程
 ## evernote （日常记录）
 ## skitch （简单的图片处理软件）
 
+一般增加个图标，箭头，文字啥的，还比较好用
+
+## sketch 矢量图
+
+颜色插件： https://github.com/RayPS/my-sketch-colors
+
+
 ## Paragon NTFS for Mac 9.0.1
 
 用于读写ntfs硬盘
