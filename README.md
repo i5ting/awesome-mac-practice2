@@ -474,6 +474,9 @@ https://docs.docker.com/installation/mac/
 
 使用alias来简化命令输入
 
+
+- 重磅推荐peter wang写的 [搬进 Github](http://gitbeijing.com/)
+
 下面给出一些git学习资料
 
 - [git-guide](http://www.bootcss.com/p/git-guide/)
