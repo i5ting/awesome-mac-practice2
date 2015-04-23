@@ -379,6 +379,8 @@ https://github.com/carlhuda/janus
 参见 http://happypeter.github.io/LGCB/book/
 
 
+- [UltiSnips](https://ruby-china.org/topics/25023)
+
 ## language
 
 ### node
