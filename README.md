@@ -438,6 +438,8 @@ https://docs.docker.com/installation/mac/
 
 ## 破解
 
+破解信息均来源于网络，备忘，自用，请勿用于商业用途
+
 ### Adobe CS6 破解说明 
 
 1. 运行Block Adobe Activation，防止ADOBE激活程序启动，按操作提示点击即可。 
@@ -482,6 +484,23 @@ LICENSE：
     Injf4yqlO1yy"82NiwNzyYInoT7AiX
 
 7.11测试是好使的。
+
+
+### phpstorm  注册码  
+
+    EMBRACE
+
+    ===== LICENSE BEGIN =====
+    97393-12042010
+    000004TIOFWznalqlK"vkzc2ilc8uu
+    byILFiG7OWKtucVRwj3V94ayvLfPHf
+    n!fFdetQz1JocKJ07OPafOXjA83gew
+    ===== LICENSE END =====
+
+
+经测试7.1和8.3都好使
+
+
 ## 高级
 
 ### git常用
