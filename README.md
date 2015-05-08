@@ -470,6 +470,18 @@ https://docs.docker.com/installation/mac/
 
 4和10.2测试都好使
 
+### rubymine  注册码 
+
+name: rubymine
+
+LICENSE：
+
+    70414-12042010
+    00002VG0BeoZbwmNAMNCx5E882rBEM
+    Ysn1P!e"s830EDlHcWg8gmqYVkvZMo
+    Injf4yqlO1yy"82NiwNzyYInoT7AiX
+
+7.11测试是好使的。
 ## 高级
 
 ### git常用
