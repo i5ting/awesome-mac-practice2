@@ -455,7 +455,7 @@ https://docs.docker.com/installation/mac/
 - 1330-0431-0319-6701-4515-0017
 - 1325-0549-2240-0071-3409-1342
 
-### webstorm 4 注册码 
+### webstorm 注册码 
 
 
 	solq
@@ -466,6 +466,9 @@ https://docs.docker.com/installation/mac/
 	RqOCGkr4xcLxYJaUE6RgIfTVRv43kV
 	80GauemJf4PvNrFQdFYdjTGBTmZZXQ
 	===== LICENSE END =====
+
+
+4和10.2测试都好使
 
 ## 高级
 
