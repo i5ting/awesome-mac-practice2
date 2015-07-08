@@ -219,8 +219,13 @@ version1.3.2破解教程
 
 ## sketch 矢量图
 
+http://pan.baidu.com/share/link?shareid=857214605&uk=152253923#path=%252FSketch
+
 颜色插件： https://github.com/RayPS/my-sketch-colors
 
+下载插件可以使用
+
+[SketchToolbox](https://github.com/i5ting/awesome-mac-practice/blob/master/app/SketchToolbox.zip?raw=true)
 
 ## Paragon NTFS for Mac 9.0.1
 
