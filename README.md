@@ -155,24 +155,6 @@ http://qsapp.com/download.php
    
 比vim还是好用一点。
 
-## sublime text 3065 注册码
-
-```
-—– BEGIN LICENSE —–
-Andrew Weber
-Single User License
-EA7E-855605
-813A03DD 5E4AD9E6 6C0EEB94 BC99798F
-942194A6 02396E98 E62C9979 4BB979FE
-91424C9D A45400BF F6747D88 2FB88078
-90F5CC94 1CDC92DC 8457107A F151657B
-1D22E383 A997F016 42397640 33F41CFC
-E1D0AE85 A0BBD039 0E9C8D55 E1B89D5D
-5CDB7036 E56DE1C0 EFCC0840 650CD3A6
-B98FC99C 8FAC73EE D2B95564 DF450523
-—— END LICENSE ——
-```
-
 
 ## Navicat Premium
 
@@ -231,20 +213,6 @@ http://pan.baidu.com/share/link?shareid=857214605&uk=152253923#path=%252FSketch
 
 用于读写ntfs硬盘
 
-## mockup(原型图制作软件)
-    
-	 key:
-          NGEN
-          eJzzzU/OLi0odswsqvFzd/WrsUQCNc41hmBRAO9oC9s=
-		  
-## AxureRP
-
-更加通用的原型设计工具，下载自己去找
-
-7.0的授权
-
-	Name: TEAM BEAN 2014
-	License Key: rF8fyNi2FowiWOA95kJIvFJZCbVFu7j8QyMAr2PPDi7Q/fStXyqt6e8h5lfNYgb+
 
 ### AxureRP-extension-for-Chrome-0.6
 
@@ -438,72 +406,6 @@ https://docs.docker.com/installation/mac/
 ### virtualbox
 
 ### paralles Descktop 
-
-
-
-## 破解
-
-破解信息均来源于网络，备忘，自用，请勿用于商业用途
-
-### Adobe CS6 破解说明 
-
-1. 运行Block Adobe Activation，防止ADOBE激活程序启动，按操作提示点击即可。 
-1. 运行Adobe CS6安装程序 
-1. 选择“试用” 
-1. 输入Adobe ID，如果没有，免费注册一个，登录 
-1. 安装完之后，在Adobe Photoshop CS6程序按右键，选择显示包内容，打开/ Contents / Frameworks /文件夹，把amtlib.framework文件夹拷进去替换。 
-1. 同样道理，激活illustrator,indesign等程序，也是同样办法，在对应的Adobe CS6程序按右键，选择显示包内容，打开/ Contents / Frameworks /文件夹，把amtlib.framework文件夹拷进去替换。 
-1. 运行Adobe 程序，激活成功。享受ADOBE CS6吧！
-
-[Adobe cs6 备份版本](https://github.com/i5ting/awesome-mac-practice/blob/master/app/amtlib.framework.zip?raw=true)
-
-### 安装photoshop12(用下面序列号搞定)
-
-- 1330-0431-0319-6701-4515-0017
-- 1325-0549-2240-0071-3409-1342
-
-### webstorm 注册码 
-
-
-	solq
-
-	===== LICENSE BEGIN =====
-	35758-12042010
-	00001cIW59IBVHRPp019pvqMI0zUcw
-	RqOCGkr4xcLxYJaUE6RgIfTVRv43kV
-	80GauemJf4PvNrFQdFYdjTGBTmZZXQ
-	===== LICENSE END =====
-
-
-4和10.2测试都好使
-
-### rubymine  注册码 
-
-name: rubymine
-
-LICENSE：
-
-    70414-12042010
-    00002VG0BeoZbwmNAMNCx5E882rBEM
-    Ysn1P!e"s830EDlHcWg8gmqYVkvZMo
-    Injf4yqlO1yy"82NiwNzyYInoT7AiX
-
-7.11测试是好使的。
-
-
-### phpstorm  注册码  
-
-    EMBRACE
-
-    ===== LICENSE BEGIN =====
-    97393-12042010
-    000004TIOFWznalqlK"vkzc2ilc8uu
-    byILFiG7OWKtucVRwj3V94ayvLfPHf
-    n!fFdetQz1JocKJ07OPafOXjA83gew
-    ===== LICENSE END =====
-
-
-经测试7.1和8.3都好使
 
 
 ## 高级
