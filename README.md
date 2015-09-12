@@ -563,6 +563,13 @@ It's recommended to disable cgo when compiling shadowsocks-go. This will prevent
 
 http://blog.studygolang.com/tag/golang_install/ 这里面有说的。
 
+
+## shell命令备忘
+
+增加写权限
+
+    sudo chmod -R g+w /usr/local
+
 ## Contributing
 
 1. Fork it
