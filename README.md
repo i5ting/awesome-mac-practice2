@@ -1,4 +1,4 @@
-awesome-mac-practice22
+awesome-mac-practice2
 ====================
 
 ## 键盘key说明
@@ -103,6 +103,13 @@ http://soft.macx.cn/
 
 使用腾讯电脑管家里的软件下载
 
+## 查看所有快捷键
+
+https://www.cheatsheetapp.com/CheatSheet/
+
+
+[CheatSheet_1.2.3 备份版本](https://github.com/i5ting/awesome-mac-practice2/blob/master/app/CheatSheet_1.2.3.zip?raw=true)
+
 ## 安装cinch(窗口最大化)
 
 全屏窗口
@@ -167,7 +174,7 @@ ImageOptim is a free app that makes images take up less disk space and load fast
 
 https://imageoptim.com/
 
-[imageoptim.zip 备份版本](https://github.com/i5ting/awesome-mac-practice22/blob/master/app/ImageOptim.zip?raw=true)
+[imageoptim.zip 备份版本](https://github.com/i5ting/awesome-mac-practice2/blob/master/app/ImageOptim.zip?raw=true)
 
 
 ## API查找
@@ -177,11 +184,11 @@ Dash是mac系统下最好用的api查找工具
 ![](img/dash.png)
 
 
-[dash.zip 备份版本，支持所有功能](https://github.com/i5ting/awesome-mac-practice22/blob/master/app/Dash.zip?raw=true)
+[dash.zip 备份版本，支持所有功能](https://github.com/i5ting/awesome-mac-practice2/blob/master/app/Dash.zip?raw=true)
 
 ## Caffeine （屏幕高亮）
 
-[Caffeine.zip 备份](https://github.com/i5ting/awesome-mac-practice22/blob/master/app/Caffeine.zip?raw=true)
+[Caffeine.zip 备份](https://github.com/i5ting/awesome-mac-practice2/blob/master/app/Caffeine.zip?raw=true)
 
 ## SVN
 
@@ -191,7 +198,7 @@ Dash是mac系统下最好用的api查找工具
 version1.3.2破解教程 
 
 - 下载官方原版，安装，运行，你会看到软件右上角有“试用版，还剩XX天”的提示。 
-- 退出软件，下载[](https://github.com/i5ting/awesome-mac-practice22/blob/master/app/Versions?raw=true)，解压。 
+- 退出软件，下载[](https://github.com/i5ting/awesome-mac-practice2/blob/master/app/Versions?raw=true)，解压。 
 - 用Finder转到应用程序，找到versions，右键“显示包内容”，进入contents -> MacOS 目录，把下载的附件替换进去（记得先备份），OK了退出，重新打开versions，你会发现那个购买提示不见了......
 
 ## evernote （日常记录）
@@ -207,7 +214,7 @@ http://pan.baidu.com/share/link?shareid=857214605&uk=152253923#path=%252FSketch
 
 下载插件可以使用
 
-[SketchToolbox](https://github.com/i5ting/awesome-mac-practice22/blob/master/app/SketchToolbox.zip?raw=true)
+[SketchToolbox](https://github.com/i5ting/awesome-mac-practice2/blob/master/app/SketchToolbox.zip?raw=true)
 
 ## Paragon NTFS for Mac 9.0.1
 
@@ -218,7 +225,7 @@ http://pan.baidu.com/share/link?shareid=857214605&uk=152253923#path=%252FSketch
 
 这个安装要翻墙，可以从下面地址下载
 
-[AxureRP-extension-for-Chrome-0.6.zip 备份](https://github.com/i5ting/awesome-mac-practice22/blob/master/app/AxureRP-extension-for-Chrome-0.6.zip?raw=true)
+[AxureRP-extension-for-Chrome-0.6.zip 备份](https://github.com/i5ting/awesome-mac-practice2/blob/master/app/AxureRP-extension-for-Chrome-0.6.zip?raw=true)
 
 
 ## TexturePacker-2.4.3(已破解，cocos2D制图软件）
