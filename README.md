@@ -440,6 +440,7 @@ https://docs.docker.com/installation/mac/
 - [10.Git之本地忽略](http://blog.csdn.net/kangear/article/details/13169395)
 - [git-flow 备忘清单](http://danielkummer.github.io/git-flow-cheatsheet/index.zh_CN.html)
 - [Git flow 開發流程 ihower](http://ihower.tw/blog/archives/5140)
+- [git tips](https://github.com/git-tips/tips)
 - [git bisect](http://www.oschina.net/translate/letting-git-bisect-help-you)
 
 	$ git update-index --assume-unchanged /path/to/file       #忽略跟踪
